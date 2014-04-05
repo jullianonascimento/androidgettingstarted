@@ -60,3 +60,9 @@ java.lang.IllegalArgumentException: Attempted to beginRule: P/MyFirstApp, does n
 	at com.android.ide.eclipse.adt.internal.wizards.templates.NewProjectWizard.performFinish(NewProjectWizard.java:377)
 	at com.android.ide.eclipse.adt.internal.wizards.templates.TemplateWizard$1.run(TemplateWizard.java:201)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-04-05 09:29:38.872
+!MESSAGE fragment_main.xml: Couldn't resolve resource @string/edit_message
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-04-05 09:29:38.908
+!MESSAGE fragment_main.xml: Couldn't resolve resource @string/button_send

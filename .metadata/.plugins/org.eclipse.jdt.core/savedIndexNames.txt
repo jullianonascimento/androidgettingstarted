@@ -3,5 +3,4 @@ INDEX VERSION 1.126+C:\Users\Julliano\androidgettingstarted\.metadata\.plugins\o
 2272487619.index
 1284074322.index
 1665057000.index
-3441175534.index
 1597431514.index
